@@ -1,0 +1,14 @@
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.AssemblyInfoInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.AssemblyInfo.cs
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\bin\Debug\net7.0\Algoritm.exe
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\bin\Debug\net7.0\Algoritm.deps.json
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\bin\Debug\net7.0\Algoritm.runtimeconfig.json
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\bin\Debug\net7.0\Algoritm.dll
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\bin\Debug\net7.0\Algoritm.pdb
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.dll
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\obj\Debug\net7.0\refint\Algoritm.dll
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.pdb
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.genruntimeconfig.cache
+C:\Users\binch\OneDrive\Рабочий стол\Projects\Algoritm\Algoritm\obj\Debug\net7.0\ref\Algoritm.dll
